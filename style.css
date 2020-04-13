@@ -10,8 +10,7 @@ body {
 }
 
 .jumbotron {
-	background-color: lightseagreen;
-}
+	background-color:yellow:
 
 .r2a {
 	border: 1px solid lightseagreen;
@@ -20,13 +19,13 @@ body {
 }
 
 .btn-primary {
-	background-color: lightseagreen;
+	background-color: yellow;
 }
 
 #buttons-view,
 #city-input {
 	margin-top: 1rem;
-	border: 1px solid lightseagreen;
+	border: 1px solid yellow;
 	border-radius: 0.25rem;
 }
 
@@ -35,7 +34,7 @@ body {
 }
 
 .card {
-	background-color: lightseagreen;
+	background-color: yellow;
 }
 
 .card-body {
